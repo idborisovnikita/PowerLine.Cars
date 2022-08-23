@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLine.Cars", "PowerLine.Cars\PowerLine.Cars.csproj", "{0D44A5C7-63C3-4870-BE4D-D4F707BC7B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLine.Cars.Tests", "PowerLine.Cars.Tests\PowerLine.Cars.Tests.csproj", "{B803E7EF-34BE-4C66-87CF-B2EC68858E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D44A5C7-63C3-4870-BE4D-D4F707BC7B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D44A5C7-63C3-4870-BE4D-D4F707BC7B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D44A5C7-63C3-4870-BE4D-D4F707BC7B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D44A5C7-63C3-4870-BE4D-D4F707BC7B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B803E7EF-34BE-4C66-87CF-B2EC68858E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B803E7EF-34BE-4C66-87CF-B2EC68858E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B803E7EF-34BE-4C66-87CF-B2EC68858E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B803E7EF-34BE-4C66-87CF-B2EC68858E54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3F81D85-BB1C-48E2-AE09-02BD8B30CE23}
+	EndGlobalSection
+EndGlobal
